@@ -1,3 +1,2 @@
 Hello Artifactory and Sona
-Today is Friday
-aToday is Friday
+Today is monday
